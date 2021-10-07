@@ -899,6 +899,7 @@ a:hover, a:active, a:focus {
   margin: auto;
   position: relative;
   width: 80%;
+  background-color: #1a253f;
 }
 
 .header-title {
@@ -1142,7 +1143,8 @@ a:hover, a:active, a:focus {
 }
 
 .bg-funfact {
-  background-color: #171f33;
+  background-color: #1a253f;
+  margin-left:30px;
 }
 
 .bg-funfact .digit-counter i {
@@ -1340,6 +1342,7 @@ a:hover, a:active, a:focus {
   -ms-flex-item-align: start;
       align-self: flex-start;
   margin-bottom: 30px;
+  margin-right: 70px;
 }
 
 .contact-info .icon {
@@ -1388,18 +1391,7 @@ a:hover, a:active, a:focus {
   background-color: #20294a;
 }
 
-@media (min-width: 1200px) {
-  .main-wraper {
-    max-width: 1140px;
-    margin: 130px auto 65px;
-  }
-}
 
-@media (max-width: 1024px) {
-  .main-wraper {
-    margin: 65px auto 0;
-  }
-}
 
 @media (max-width: 768px) {
   .navbar {
@@ -1411,9 +1403,7 @@ a:hover, a:active, a:focus {
   .col-sm-6 {
     width: 100% !important;
   }
-  .main-wraper {
-    margin: 68px auto 0;
-  }
+
   .container-filter li a {
     padding: 5px 8px;
   }
