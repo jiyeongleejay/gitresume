@@ -898,8 +898,7 @@ a:hover, a:active, a:focus {
 .wraper {
   margin: auto;
   position: relative;
-  width: 60%;
-  background-color: #ff00ff;
+  width: 80%;
 }
 
 .header-title {
