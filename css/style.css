@@ -12,6 +12,11 @@
 6. Print
 */
 @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,500,600,700&display=swap");
+.main-wrapper1{
+  margin: auto;
+  width: 60%;
+}
+
 .btn {
   border-radius: 3px;
   font-family: "IBM Plex Sans", sans-serif;
