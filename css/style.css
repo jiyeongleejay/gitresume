@@ -12,12 +12,7 @@
 6. Print
 */
 @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,500,600,700&display=swap");
-.main-wraper1 {
-  margin: auto;
-  position: relative;
-  width: 60%;
-  background-color: #ff00ff;
-}
+
 
 .btn {
   border-radius: 3px;
@@ -898,6 +893,13 @@ a:hover, a:active, a:focus {
 .main-wraper {
   background-color: #1a253f;
   width: 100%;
+}
+
+.wraper {
+  margin: auto;
+  position: relative;
+  width: 60%;
+  background-color: #ff00ff;
 }
 
 .header-title {
