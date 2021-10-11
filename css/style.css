@@ -1346,7 +1346,8 @@ a:hover, a:active, a:focus {
 }
 
 .contact-info .icon {
-  margin-right: 12px;
+  margin-left: 6px;
+  margin-right: 6px;
   font-size: 32px;
   color: #4d79f6;
   -ms-flex-item-align: center;
